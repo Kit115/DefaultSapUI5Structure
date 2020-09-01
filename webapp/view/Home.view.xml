@@ -1,0 +1,9 @@
+<mvc:View
+    controllerName="sap.ui.APP RESOURCE.controller.Home"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+> 
+    <Panel> 
+        <Button text="PRESS ME UWU!"/> 
+    </Panel> 
+</mvc:View> 
